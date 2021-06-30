@@ -1,0 +1,95 @@
+2020-02-20 18:26:06 Payments: BlockChain SUBMIT_PAYMENT 
+ Data: {
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}
+2020-02-20 18:26:06 Payments: BlockChain : '{
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}'
+2020-02-24 22:00:42 Payments: BlockChain SUBMIT_PAYMENT 
+ Data: {
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}
+2020-02-24 22:00:42 Payments: BlockChain : '{
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}'
+2020-04-16 01:13:24 Payments: BlockChain SUBMIT_PAYMENT 
+ Data: {
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}
+2020-04-16 01:13:24 Payments: BlockChain : '{
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}'
+2020-05-19 18:04:18 Payments: /var/www/vhosts/h105bets/demo.betscheme.com/data/app/Plugin/Payments/Lib/Omnipay/vendor/guzzle/guzzle/src/Guzzle/Http/Exception/BadResponseException.php:43 Client error response
+[status code] 400
+[reason phrase] Bad Request
+[url] https://www.moneybookers.com/app/payment.pl
+2020-05-28 03:03:20 Payments: /var/www/vhosts/h105bets/demo.betscheme.com/data/app/Plugin/Payments/Controller/PaypalController.php:178 Cannot find payment or its already processed by requested data: array (
+) 
+ Database payment: array (
+)
+2020-06-11 08:56:38 Payments: /var/www/vhosts/h105bets/demo.betscheme.com/data/app/Plugin/Payments/Lib/Omnipay/vendor/guzzle/guzzle/src/Guzzle/Http/Exception/BadResponseException.php:43 Client error response
+[status code] 400
+[reason phrase] Bad Request
+[url] https://www.moneybookers.com/app/payment.pl
+2020-06-23 16:45:47 Payments: BlockChain SUBMIT_PAYMENT 
+ Data: {
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}
+2020-06-23 16:45:47 Payments: BlockChain : '{
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}'
+2020-06-23 16:46:35 Payments: BlockChain SUBMIT_PAYMENT 
+ Data: {
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}
+2020-06-23 16:46:35 Payments: BlockChain : '{
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}'
+2020-06-27 01:53:18 Payments: BlockChain SUBMIT_PAYMENT 
+ Data: {
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}
+2020-06-27 01:53:18 Payments: BlockChain : '{
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}'
+2020-08-15 22:45:08 Payments: BlockChain SUBMIT_PAYMENT 
+ Data: {
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}
+2020-08-15 22:45:08 Payments: BlockChain : '{
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}'
+2020-08-16 07:54:47 Payments: BlockChain SUBMIT_PAYMENT 
+ Data: {
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}
+2020-08-16 07:54:47 Payments: BlockChain : '{
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}'
+2020-09-02 01:43:56 Payments: BlockChain SUBMIT_PAYMENT 
+ Data: {
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}
+2020-09-02 01:43:56 Payments: BlockChain : '{
+  "message" : "Problem with xpub",
+  "description" : "Gap between last used address and next address too large. This might make funds inaccessible."
+}'
+2021-05-23 16:53:35 Payments: /var/www/html/data/lib/Cake/Model/Datasource/DboSource.php:458 SQLSTATE[HY000]: General error: 1364 Field 'payment_id' doesn't have a default value
+2021-05-23 16:53:37 Payments: /var/www/html/data/lib/Cake/Model/Datasource/DboSource.php:458 SQLSTATE[HY000]: General error: 1364 Field 'payment_app_id' doesn't have a default value

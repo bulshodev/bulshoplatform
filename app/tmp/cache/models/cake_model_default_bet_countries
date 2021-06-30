@@ -1,0 +1,2 @@
+1709832498
+a:4:{s:2:"id";a:5:{s:4:"type";s:10:"biginteger";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:22;s:3:"key";s:7:"primary";}s:9:"import_id";a:6:{s:4:"type";s:10:"biginteger";s:4:"null";b:1;s:7:"default";N;s:6:"length";i:225;s:3:"key";s:5:"index";s:7:"comment";s:16:"Import Source Id";}s:6:"active";a:5:{s:4:"type";s:7:"boolean";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:1;s:3:"key";s:5:"index";}s:7:"updated";a:4:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:9;}}
